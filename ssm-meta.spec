@@ -6,8 +6,8 @@ Version:        %{_version}
 Release:        %{_release}
 License:        Apache-2.0
 
-Requires: MariaDB-server = 10.4.34
-Requires: MariaDB-client = 10.4.34
+Requires: MariaDB-server = 10.4.34.1
+Requires: MariaDB-client = 10.4.34.1
 Requires: prometheus = 2.51.2
 Requires: ssm-qan-api = 9.4.1
 Requires: ssm-qan-app = 9.4.1
