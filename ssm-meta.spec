@@ -8,7 +8,7 @@ License:        Apache-2.0
 
 Requires: MariaDB-server = 10.4.34.1
 Requires: MariaDB-client = 10.4.34.1
-Requires: prometheus = 2.51.2
+Requires: prometheus = 2.53.5
 Requires: ssm-qan-api = 9.4.5
 Requires: percona-toolkit = 3.7.0
 Requires: ssm-dashboards = 9.4.11
