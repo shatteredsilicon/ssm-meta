@@ -14,9 +14,9 @@ Requires: ssm-qan-app = 9.4.9
 Requires: percona-toolkit = 3.7.0
 Requires: ssm-dashboards = 9.4.16
 Requires: ssm-server = 9.4.6
-Requires: ssm-client = 9.4.14
-Requires: ssm-manage = 9.4.1
-Requires: ssm-managed = 9.4.8
+Requires: ssm-client = 9.4.15
+Requires: ssm-manage = 9.4.2
+Requires: ssm-managed = 9.4.9
 Requires: rds_exporter = 9.4.0
 Requires: snmp_exporter = 0.25.0.2
 
