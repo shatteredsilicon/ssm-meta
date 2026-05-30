@@ -16,7 +16,7 @@ Requires: ssm-dashboards = 9.4.21
 Requires: ssm-server = 9.4.6
 Requires: ssm-client = 9.4.17
 Requires: ssm-manage = 9.4.4
-Requires: ssm-managed = 9.4.11
+Requires: ssm-managed = 9.4.12
 Requires: rds_exporter = 9.4.2
 Requires: snmp_exporter = 0.25.0.4
 
