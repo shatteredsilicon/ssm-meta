@@ -9,16 +9,16 @@ License:        Apache-2.0
 Requires: MariaDB-server = 10.4.34.1
 Requires: MariaDB-client = 10.4.34.1
 Requires: prometheus = 2.51.2
-Requires: ssm-qan-api = 9.4.10
-Requires: ssm-qan-app = 9.4.15
+Requires: ssm-qan-api = 9.4.11
+Requires: ssm-qan-app = 9.4.16
 Requires: percona-toolkit = 3.7.0
-Requires: ssm-dashboards = 9.4.21
+Requires: ssm-dashboards = 9.4.22
 Requires: ssm-server = 9.4.6
-Requires: ssm-client = 9.4.17
-Requires: ssm-manage = 9.4.4
-Requires: ssm-managed = 9.4.12
-Requires: rds_exporter = 9.4.2
-Requires: snmp_exporter = 9.4.0.25.0.4
+Requires: ssm-client = 9.4.18
+Requires: ssm-manage = 9.4.5
+Requires: ssm-managed = 9.4.13
+Requires: rds_exporter = 9.4.3
+Requires: snmp_exporter = 9.4.0.25.0.5
 
 %description
 SSM meta-package
