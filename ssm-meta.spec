@@ -10,13 +10,13 @@ Requires: MariaDB-server = 10.4.34.1
 Requires: MariaDB-client = 10.4.34.1
 Requires: prometheus = 2.51.2
 Requires: ssm-qan-api = 9.4.11
-Requires: ssm-qan-app = 9.4.16
+Requires: ssm-qan-app = 9.4.17
 Requires: percona-toolkit = 3.7.0
-Requires: ssm-dashboards = 9.4.22
+Requires: ssm-dashboards = 9.4.23
 Requires: ssm-server = 9.4.6
-Requires: ssm-client = 9.4.18
+Requires: ssm-client = 9.4.19
 Requires: ssm-manage = 9.4.5
-Requires: ssm-managed = 9.4.13
+Requires: ssm-managed = 9.4.14
 Requires: rds_exporter = 9.4.3
 Requires: snmp_exporter = 9.4.0.25.0.5
 
